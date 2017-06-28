@@ -1,0 +1,6 @@
+function a(args) {
+    let r = db.documents.findOne({
+        a: 3
+    })
+    return r
+}

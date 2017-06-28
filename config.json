@@ -1,0 +1,8 @@
+{
+    "mongodb": {
+        "url": "localhost:27017/test",
+        "username": "yidao",
+        "password": "wobuzhidao"
+    }
+
+}
