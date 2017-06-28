@@ -1,8 +1,8 @@
 {
     "mongodb": {
-        "url": "localhost:27017/test",
-        "username": "yidao",
-        "password": "wobuzhidao"
+        "url": "11.11.185.36:27017/cms",
+        "username": "cms",
+        "password": "cmspassword"
     }
 
 }
